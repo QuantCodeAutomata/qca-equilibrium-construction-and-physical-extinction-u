@@ -1,0 +1,4 @@
+Path,A_T→∞,H_T limit,H_T/T→,Long-fwd measure exists,Long bond exists,Long yield = r^R,Limiting measure
+FP (fading pessimism),True,−∞,0.0,True,True,True,Dogmatist benchmark
+FA (fading alternating),True,h∈R (finite),0.0,True,True,True,Interior mixture
+CA (constant-amplitude cyclical),True,oscillates (no limit),0.0,False,False,True,Does not exist
